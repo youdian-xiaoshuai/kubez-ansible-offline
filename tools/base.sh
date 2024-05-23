@@ -19,7 +19,7 @@ USER="ptx9sk7vk7ow:003a1d6132741b195f332b815e8f98c39ecbcc1a"
 URL="https://pixiupkg-generic.pkg.coding.net"
 
 # 当前路径, $pwd 可以更改路径
-PKGPWD=$pwd
+PKGPWD=$'pwd'
 
 # 判断LOCALIP是否修改
 printChangeIp() {
