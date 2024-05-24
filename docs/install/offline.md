@@ -69,8 +69,8 @@ curl https://raw.githubusercontent.com/pixiu-io/kubez-ansible-offline/master/too
   sh base.sh push all     # 上传全部 rpm 包和所需镜像到 nexus 仓库
 
   # 或者单独上传
-  sh bash.sh push rpm     # 上传 rpm 包
-  sh bash.sh push image   # 上传 images
+  sh base.sh push rpm     # 上传 rpm 包
+  sh base.sh push image   # 上传 images
   ```
 
 ### 设置 `nexus repo` 和安装 `kubez-ansible`
