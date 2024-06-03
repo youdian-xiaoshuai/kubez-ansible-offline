@@ -7,6 +7,7 @@ To provide quick deployment tools for kubernetes cluster and cloud native applic
 [![License][license-image]][license-url]
 
 This session has been tested on Centos7 which supported by python2.7
+支持的版本 1.26.15、1.23.17
 
 ## Getting Started
 Learn about Kubez Ansible by reading the documentation online [kubez-ansible](https://www.bilibili.com/video/BV1L84y1h7LE/).
